@@ -12,6 +12,12 @@ Este proyecto fue desarrollado utilizando **HTML**, **CSS** y **JavaScript** en 
 - **4 Secciones:** Cada una con contenido interactivo.
 - **Footer:** Con atribuciones, enlaces a redes sociales, y datos del año y colegio.
 
+## DRAW IO VERSIONS
+
+![Diagrama 1](DesktopVersion.drawio.png)
+![Diagrama 2](MobileVersion.drawio.png)
+
+
 ## Secciones
 
 ### Inicio
