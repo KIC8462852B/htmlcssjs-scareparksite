@@ -19,8 +19,6 @@ Este proyecto fue desarrollado utilizando **HTML**, **CSS** y **JavaScript** en 
 ### Inicio
 - **Video de Fondo:** Se reproduce automáticamente un video (trailer de la película) para ambientar al usuario desde el primer instante.
 - **Figcaption:** Incluye una breve descripción sobre el video.
-- **Imagen Representativa:**  
-  ![Inicio](https://via.placeholder.com/800x300?text=Trailer+de+la+Pel%C3%ADcula)
 
 ### Información y Entradas
 - **Opciones de Entradas:**  
@@ -41,8 +39,6 @@ Este proyecto fue desarrollado utilizando **HTML**, **CSS** y **JavaScript** en 
   - Espejismos
 - **Overlay Interactivo:**  
   Al hacer clic en cualquier tarjeta (en mobile, tablet o desktop), se despliega un overlay que ocupa toda la pantalla. Para cerrarlo, basta con hacer clic en cualquier punto fuera del overlay.
-- **Imagen Representativa:**  
-  ![Atracciones](https://via.placeholder.com/800x300?text=Atracciones+Interactiva)
 
 ### Contacto
 - **Formulario de Contacto:**  
@@ -55,14 +51,10 @@ Este proyecto fue desarrollado utilizando **HTML**, **CSS** y **JavaScript** en 
   - Validación de campos.
   - Almacenamiento de datos en localStorage.
   - Mensaje de confirmación en caso de envío exitoso.
-- **Imagen Representativa:**  
-  ![Contacto](https://via.placeholder.com/800x300?text=Formulario+de+Contacto)
 
 ### Footer
 - **Contenido:**  
   Incluye atribuciones de recursos (iconos y fondos), enlaces a redes sociales (sin linkear), el año del proyecto y datos del colegio.
-- **Imagen Representativa:**  
-  ![Footer](https://via.placeholder.com/800x100?text=Footer)
 
 ## Responsive Design
 
@@ -73,8 +65,8 @@ El sitio se ha diseñado para ser completamente responsive, adaptándose a difer
 
 ## Tecnologías Utilizadas
 
-- **HTML5:** Estructura del contenido.
-- **CSS3:** Estilización, animaciones y diseño responsivo.
+- **HTML:** Estructura del contenido.
+- **CSS:** Estilización, animaciones y diseño responsivo.
 - **JavaScript:** Interactividad y validaciones del formulario.
 - **Google Fonts:** Para importar las tipografías temáticas.
 - **LocalStorage:** Para el almacenamiento temporal de datos del formulario.
