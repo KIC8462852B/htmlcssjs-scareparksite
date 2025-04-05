@@ -774,10 +774,25 @@ footer ul li a:hover {
     }
 
     /* ---------- #atracciones ---------- */
+    #informacion h2,
     #atracciones h2 {
-        font-size: clamp(2rem, 10vw, 3rem) !important;
+        font-size: 2.5rem;
+        letter-spacing: 1px;
+        text-shadow: 0 0 6px #FF0000;
         line-height: 1.2;
-        white-space: normal;
+    }
+
+    .atraccion-info {
+        padding: 10px;
+    }
+
+    .atraccion-info h3 {
+        font-size: 1.2rem;
+    }
+
+    .atraccion-info p {
+        font-size: 1rem;
+        line-height: 1.5;
     }
 
     /* ---------- SECCION GENERAL---------- */
@@ -787,6 +802,11 @@ footer ul li a:hover {
 
     section h2 {
         font-size: clamp(2.2rem, 6vw, 3rem);
+    }
+    
+    section {
+        -webkit-mask-image: linear-gradient(to bottom, black 97%, transparent 100%);
+        mask-image: linear-gradient(to bottom, black 97%, transparent 100%);
     }
 
     .info-caja {
