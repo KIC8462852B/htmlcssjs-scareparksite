@@ -774,9 +774,15 @@ footer ul li a:hover {
     }
 
     /* ---------- #atracciones ---------- */
-    #informacion h2,
+    #informacion h2 {
+        font-size: 2rem;
+        letter-spacing: 1px;
+        text-shadow: 0 0 6px #FF0000;
+        line-height: 1.2;
+    }
+
     #atracciones h2 {
-        font-size: 2.5rem;
+        font-size: 1.5rem;
         letter-spacing: 1px;
         text-shadow: 0 0 6px #FF0000;
         line-height: 1.2;
@@ -803,7 +809,7 @@ footer ul li a:hover {
     section h2 {
         font-size: clamp(2.2rem, 6vw, 3rem);
     }
-    
+
     section {
         -webkit-mask-image: linear-gradient(to bottom, black 97%, transparent 100%);
         mask-image: linear-gradient(to bottom, black 97%, transparent 100%);
