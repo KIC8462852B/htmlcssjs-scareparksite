@@ -85,4 +85,4 @@ El sitio se ha diseñado para ser completamente responsive, adaptándose a difer
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tu_usuario/terrifier-terror-park.git
+   git clone https://github.com/KIC8462852B/M04-UF1-PR01.git
