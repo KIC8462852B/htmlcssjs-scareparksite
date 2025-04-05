@@ -1,7 +1,5 @@
 # 🏆 Terrifier Terror Park Website M04-UF1
 
-![Terrifier Terror Park Banner](https://via.placeholder.com/1200x400?text=Terrifier+Terror+Park)
-
 ## Description
 
 Terrifier Terror Park es un parque de atracciones de terror ficticio basado en la saga de películas *Terrifier*. El objetivo del sitio es mostrar todo lo que ofrece el parque y animar a los visitantes a vivir experiencias extremas y únicas en un entorno que se aleja de lo convencional.
